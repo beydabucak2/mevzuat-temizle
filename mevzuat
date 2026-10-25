@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 
@@ -5,15 +6,12 @@ def mevzuat_cek_ve_gonder():
     print("Mevzuat verileri çekiliyor...")
     
     url = "https://mevzuatlar.com.tr/degisiklikler.php?gun=1"
-    
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
+    headers = {"User-Agent": "Mozilla/5.0"}
     
     try:
         cevap = requests.get(url, headers=headers)
         cevap.raise_for_status()
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         print(f"Sayfaya erişilemedi: {e}")
         return
 
@@ -21,7 +19,6 @@ def mevzuat_cek_ve_gonder():
     satirlar = soup.find_all('div', class_='mv-satir')
     
     sonuclar = []
-    
     for satir in satirlar:
         kategori_badge = satir.find('span', class_='tur-badge')
         kategori = kategori_badge.text.strip() if kategori_badge else "Bilinmiyor"
@@ -47,10 +44,12 @@ def mevzuat_cek_ve_gonder():
         })
         
     print(f"Toplam {len(sonuclar)} adet kayıt bulundu.")
-    for kayit in sonuclar:
-        print(f"[{kayit['kategori']}] {kayit['tarih']} - {kayit['baslik']}")
     
-    webhook_url = ""
+    webhook_url = os.environ.get("WEBHOOK_URL")
+    
+    if not webhook_url:
+        print("Hata: Webhook URL bulunamadı!")
+        return
     
     payload = {
         "gunluk_kayit_sayisi": len(sonuclar),
@@ -63,6 +62,5 @@ def mevzuat_cek_ve_gonder():
     except Exception as e:
         print(f"Webhook gönderim hatası: {e}")
 
-# Betik GitHub Actions tarafından çalıştırıldığında doğrudan bu fonksiyon tetiklenir:
 if __name__ == "__main__":
     mevzuat_cek_ve_gonder()
