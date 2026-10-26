@@ -1,69 +1,31 @@
-import os
 import requests
 from bs4 import BeautifulSoup
+import json
+import os
 
-def mevzuat_cek_ve_gonder():
-    print("Mevzuat verileri çekiliyor...")
-    
-    url = os.environ.get("URL")
-    if not url:
-        print("Hata: Hedef URL bulunamadı!")
-        return
-        
-    headers = {"User-Agent": "Mozilla/5.0"}
-    
-    try:
-        cevap = requests.get(url, headers=headers)
-        cevap.raise_for_status()
-    except Exception as e:
-        print(f"Sayfaya erişilemedi: {e}")
-        return
+url = os.environ.get("URL")
+headers = {"User-Agent": "Mozilla/5.0"}
 
-    soup = BeautifulSoup(cevap.text, 'html.parser')
-    satirlar = soup.find_all('div', class_='mv-satir')
+response = requests.get(url, headers=headers)
+response.raise_for_status()
+
+soup = BeautifulSoup(response.text, "html.parser")
+satirlar = soup.find_all("div", class_="mv-satir")
+
+mevzuatlar = []
+
+for satir in satirlar:
+    baslik_el = satir.find(class_="mv-baslik")
+    tarih_el = satir.find(class_="mv-tarih")
+    etiket_el = satir.find(class_="tur-badge")
     
-    sonuclar = []
-    for satir in satirlar:
-        kategori_badge = satir.find('span', class_='tur-badge')
-        kategori = kategori_badge.text.strip() if kategori_badge else "Bilinmiyor"
-        
-        baslik_div = satir.find('div', class_='mv-baslik')
-        if baslik_div and baslik_div.find('a'):
-            baslik = baslik_div.find('a').text.strip()
-            link = baslik_div.find('a')['href']
-            if not link.startswith("http"):
-                link = "https://mevzuatlar.com.tr/" + link.lstrip("/")
-        else:
-            baslik = "Başlık Yok"
-            link = ""
-            
-        tarih_div = satir.find('div', class_='mv-tarih')
-        tarih = tarih_div.text.strip() if tarih_div else "Tarih Yok"
-        
-        sonuclar.append({
-            "kategori": kategori,
-            "baslik": baslik,
-            "link": link,
-            "tarih": tarih
+    if baslik_el:
+        mevzuatlar.append({
+            "kategori": etiket_el.text.strip() if etiket_el else "Genel",
+            "baslik": baslik_el.text.strip(),
+            "link": baslik_el.find("a")["href"] if baslik_el.find("a") else "",
+            "tarih": tarih_el.text.strip() if tarih_el else ""
         })
-        
-    print(f"Toplam {len(sonuclar)} adet kayıt bulundu.")
-    
-    webhook_url = os.environ.get("WEBHOOK_URL")
-    if not webhook_url:
-        print("Hata: Webhook URL bulunamadı!")
-        return
-    
-    payload = {
-        "gunluk_kayit_sayisi": len(sonuclar),
-        "mevzuatlar": sonuclar
-    }
-    
-    try:
-        response = requests.post(webhook_url, json=payload)
-        print(f"Webhook tetiklendi. Durum kodu: {response.status_code}")
-    except Exception as e:
-        print(f"Webhook gönderim hatası: {e}")
 
-if __name__ == "__main__":
-    mevzuat_cek_ve_gonder()
+with open("mevzuat.json", "w", encoding="utf-8") as f:
+    json.dump(mevzuatlar, f, ensure_ascii=False, indent=2)
