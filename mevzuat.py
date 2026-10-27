@@ -72,7 +72,7 @@ for satir in satirlar:
     tarih = temizle(tarih_el.get_text()) if tarih_el else ""
     kategori = temizle(etiket_el.get_text()) if etiket_el else "genel"
 
-    anahtar = link or baslik
+    anahtar = tr_lower(baslik)
     if anahtar in gorulen_kumesi:
         continue  # daha önce görüldü
     gorulenler.append(anahtar)
