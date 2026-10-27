@@ -87,7 +87,7 @@ for satir in satirlar:
 
 simdi = datetime.now(TR_SAAT)
 cikti = {
-    "tarih": simdi.strftime("%d.%m.%Y"),
+    "bulten_tarihi": simdi.strftime("%d.%m.%Y"),
     "uretim_zamani": simdi.isoformat(timespec="seconds"),
     "taranan_satir_sayisi": len(satirlar),
     "kayit_sayisi": len(kayitlar),
