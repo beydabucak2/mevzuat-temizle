@@ -1,49 +1,55 @@
 {
-  "bulten_tarihi": "27.10.2026",
-  "uretim_zamani": "2026-10-27T12:48:55+03:00",
+  "bulten_tarihi": "28.10.2026",
+  "uretim_zamani": "2026-10-28T13:34:16+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 7,
+  "kayit_sayisi": 8,
   "kayitlar": [
     {
-      "kategori": "kanun",
-      "baslik": "TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7596&MevzuatTur=1&MevzuatTertip=5",
-      "tarih": "27.10.2026"
-    },
-    {
       "kategori": "yonetmelik",
-      "baslik": "Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-5.htm",
-      "tarih": "27.10.2026"
+      "baslik": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
+      "tarih": "28.10.2026"
     },
     {
-      "kategori": "yonetmelik",
-      "baslik": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
-      "tarih": "27.10.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/901, Karar: 2026/155 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
     },
     {
-      "kategori": "yonetmelik",
-      "baslik": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Kültür ve Turizm Bakanlığına Yapılacak Başvurular ile Sunulacak Hizmetler Karşılığı Alınacak Bedellere İlişkin Usul ve Esaslar Hakkında Yönetmeli",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
-      "tarih": "27.10.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/902, Karar: 2026/156 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
     },
     {
-      "kategori": "yonetmelik",
-      "baslik": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
-      "tarih": "27.10.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/900, Karar: 2026/154 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
     },
     {
-      "kategori": "yonetmelik",
-      "baslik": "Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm",
-      "tarih": "27.10.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/853, Karar: 2026/135 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
     },
     {
-      "kategori": "kanun",
-      "baslik": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm",
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/85, Karar: 2026/159 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/49, Karar: 2026/157 (11.03.2026)",
+      "link": "",
+      "tarih": "11.03.2026"
+    },
+    {
+      "kategori": "cb_yonetmelik",
+      "baslik": "KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KANUNU KAPSAMINDA KÜLTÜR VE TURİZM BAKANLIĞINA YAPILACAK BAŞVURULAR İLE SUNULACAK HİZMETLER KARŞILIĞI ALINACAK BEDELLERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETME",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46353&MevzuatTur=7&MevzuatTertip=5",
       "tarih": "27.10.2026"
     }
   ]
