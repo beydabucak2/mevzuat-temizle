@@ -1,56 +1,7 @@
 {
-  "bulten_tarihi": "28.10.2026",
-  "uretim_zamani": "2026-10-28T13:34:16+03:00",
+  "bulten_tarihi": "29.10.2026",
+  "uretim_zamani": "2026-10-29T13:53:40+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 8,
-  "kayitlar": [
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
-      "tarih": "28.10.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/901, Karar: 2026/155 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/902, Karar: 2026/156 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/900, Karar: 2026/154 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2025/853, Karar: 2026/135 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/85, Karar: 2026/159 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/49, Karar: 2026/157 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "cb_yonetmelik",
-      "baslik": "KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KANUNU KAPSAMINDA KÜLTÜR VE TURİZM BAKANLIĞINA YAPILACAK BAŞVURULAR İLE SUNULACAK HİZMETLER KARŞILIĞI ALINACAK BEDELLERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETME",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46353&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "27.10.2026"
-    }
-  ]
+  "kayit_sayisi": 0,
+  "kayitlar": []
 }
