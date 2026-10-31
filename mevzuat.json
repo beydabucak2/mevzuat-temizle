@@ -1,50 +1,104 @@
 {
-  "bulten_tarihi": "30.10.2026",
-  "uretim_zamani": "2026-10-30T13:51:43+03:00",
+  "bulten_tarihi": "31.10.2026",
+  "uretim_zamani": "2026-10-31T13:23:55+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 7,
+  "kayit_sayisi": 16,
   "kayitlar": [
     {
+      "kategori": "cb_kararname",
+      "baslik": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 201)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-10.pdf",
+      "tarih": "31.10.2026"
+    },
+    {
       "kategori": "teblig",
-      "baslik": "Yapı Sahipleri ile Yapı Denetimi Hizmet Sözleşmesi İmzalayacak Yapı Denetim Kuruluşlarının Elektronik Ortamda Belirlenmesine İlişkin Usul ve Esaslara Dair Tebliğde Değişiklik Yapılması Hakkında Tebliğ",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-3.htm",
-      "tarih": "30.10.2026"
+      "baslik": "2025-2027 Yıllarında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere Ödeme Yapılmasına Dair Tebliğ (Tebliğ No: 2024/39)’de Değişiklik Yapılmasına İlişkin Tebliğ",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-4.htm",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "teblig",
+      "baslik": "Dağıtım Tarifesinin Düzenlenmesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-5.htm",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "teblig",
+      "baslik": "Türk Patent ve Marka Kurumunca 2026 Yılında Uygulanacak Ücret Tarifesine İlişkin Tebliğ (BİK/TÜRKPATENT: 2026/1)’de Değişiklik Yapılmasına Dair Tebliğ (BİK/TÜRKPATENT: 2026/2)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-6.htm",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Organize Toptan Doğal Gaz Satış Piyasası Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-2.htm",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Türk Mühendis ve Mimar Odaları Birliği Bilirkişilik - Eksperlik - Hakemlik ve Teknik Müşavirlik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-3.htm",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik (Karar Sayısı: 11947)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-20.pdf",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "cb_kararname",
+      "baslik": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Ka",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-11.pdf",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "cb_kararname",
+      "baslik": "Siber Güvenlik Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 203)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-12.pdf",
+      "tarih": "31.10.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/32883 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
-      "tarih": "30.10.2026"
+      "baslik": "Türk Devletleri Teşkilatına Üye Devletlerin Hükümetleri Arasında Dijital Ekonomi Ortaklık Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 11935)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-13.pdf",
+      "tarih": "31.10.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22795 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
-      "tarih": "30.10.2026"
+      "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dond",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-14.pdf",
+      "tarih": "31.10.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/22462 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
-      "tarih": "30.10.2026"
+      "baslik": "I Sayılı Listede Belirtilen Fakülte ve Enstitülerin Kurulması, II Sayılı Listede Belirtilen Fakültelerin Adlarının Karşılarında Gösterildiği Şekilde Değiştirilmesi Hakkında Karar (Karar Sayısı: 11937)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-15.pdf",
+      "tarih": "31.10.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2020/7753 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
-      "tarih": "30.10.2026"
+      "baslik": "Beşikdüzü-İskenderli-Tonya İl Yolu Projesi (Km:23+016.00-23+224.00 Arası) Kapsamında Araziye Girilerek Yol Yapım Çalışmalarının Tamamlanması Amacıyla Taşınmazlar ile Üzerlerindeki Müştemilatın Karayol",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-16.pdf",
+      "tarih": "31.10.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2024/68293 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
-      "tarih": "30.10.2026"
+      "baslik": "Konya İli, Halkapınar İlçesine Doğal Gaz Arzının Sağlanabilmesi Amacıyla Kurulacak Dağıtım Tesislerinin Yapımı İçin Gerekli Olan Bazı Taşınmazların, Tapuda Hazine Lehine İrtifak Hakkı Tesis Edilmek Su",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-17.pdf",
+      "tarih": "31.10.2026"
     },
     {
-      "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2021/1112 Başvuru Numaralı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
-      "tarih": "30.10.2026"
+      "kategori": "yonetmelik",
+      "baslik": "Aile ve Gençlik Fonu Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11946)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-19.pdf",
+      "tarih": "31.10.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Pan-Avrupa-Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyon Ortak Komitesinin 1/2023 Sayılı Kararı Kapsamı Tercihli Menşe Kuralları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetm",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261031-1.htm",
+      "tarih": "31.10.2026"
     }
   ]
 }
