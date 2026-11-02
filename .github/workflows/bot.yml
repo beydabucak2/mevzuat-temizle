@@ -1,7 +1,7 @@
 name: Mevzuat Guncelleme
 on:
   schedule:
-    - cron: '17 4 * * *'   # 03:00 UTC = 06:00 Türkiye saati
+    - cron: '2 23 * * *'
   workflow_dispatch:
 
 jobs:
