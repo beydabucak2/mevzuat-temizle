@@ -1,20 +1,50 @@
 {
-  "bulten_tarihi": "02.11.2026",
-  "uretim_zamani": "2026-11-02T13:09:06+03:00",
+  "bulten_tarihi": "03.11.2026",
+  "uretim_zamani": "2026-11-03T06:54:06+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 2,
+  "kayit_sayisi": 7,
   "kayitlar": [
     {
-      "kategori": "yonetmelik",
-      "baslik": "İzmir Yüksek Teknoloji Enstitüsü Biyoteknoloji ve Biyomühendislik Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-4.htm",
-      "tarih": "02.11.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/655, Karar: 2026/1226 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
     },
     {
-      "kategori": "diger",
-      "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-1.pdf",
-      "tarih": "02.11.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/1743, Karar: 2026/1232 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6613, Karar: 2026/1235 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/5934, Karar: 2026/1216 (02.03.2026)",
+      "link": "",
+      "tarih": "02.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/5396, Karar: 2026/1217 (02.03.2026)",
+      "link": "",
+      "tarih": "02.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/5650, Karar: 2026/1218 (02.03.2026)",
+      "link": "",
+      "tarih": "02.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2023/5354, Karar: 2026/1220 (02.03.2026)",
+      "link": "",
+      "tarih": "02.03.2026"
     }
   ]
 }
