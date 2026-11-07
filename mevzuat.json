@@ -1,122 +1,62 @@
 {
-  "bulten_tarihi": "06.11.2026",
-  "uretim_zamani": "2026-11-06T06:22:19+03:00",
+  "bulten_tarihi": "07.11.2026",
+  "uretim_zamani": "2026-11-07T05:41:02+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 19,
+  "kayit_sayisi": 9,
   "kayitlar": [
     {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 13. Hukuk Dairesi — Esas: 2006/14522, Karar: 2007/2173",
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6270, Karar: 2026/1130 (25.02.2026)",
       "link": "",
-      "tarih": "19.02.2007"
+      "tarih": "25.02.2026"
     },
     {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 13. Hukuk Dairesi — Esas: 2006/10938, Karar: 2006/16006",
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6276, Karar: 2026/1128 (25.02.2026)",
       "link": "",
-      "tarih": "05.12.2006"
+      "tarih": "25.02.2026"
     },
     {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 11. Hukuk Dairesi — Esas: 2014/2707, Karar: 2014/9712",
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/4141, Karar: 2026/1115 (25.02.2026)",
       "link": "",
-      "tarih": "26.05.2014"
-    },
-    {
-      "kategori": "yargitay_ceza",
-      "baslik": "Yargıtay 1. Ceza Dairesi — Esas: 2010/2295, Karar: 2012/1693",
-      "link": "",
-      "tarih": "12.03.2012"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 11. Hukuk Dairesi — Esas: 2019/1529, Karar: 2020/4315",
-      "link": "",
-      "tarih": "21.10.2020"
-    },
-    {
-      "kategori": "yargitay_ceza",
-      "baslik": "Yargıtay 11. Ceza Dairesi — Esas: 2012/13798, Karar: 2012/20297",
-      "link": "",
-      "tarih": "26.11.2012"
-    },
-    {
-      "kategori": "yargitay_ceza",
-      "baslik": "Yargıtay 19. Ceza Dairesi — Esas: 2017/3760, Karar: 2019/6432",
-      "link": "",
-      "tarih": "28.03.2019"
-    },
-    {
-      "kategori": "yargitay_ceza",
-      "baslik": "Yargıtay 7. Ceza Dairesi — Esas: 2023/14867, Karar: 2024/2491",
-      "link": "",
-      "tarih": "05.03.2024"
-    },
-    {
-      "kategori": "yargitay_ceza",
-      "baslik": "Yargıtay 20. Ceza Dairesi — Esas: 2016/2692, Karar: 2017/4974",
-      "link": "",
-      "tarih": "09.10.2017"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 11. Hukuk Dairesi — Esas: 2017/3327, Karar: 2019/499",
-      "link": "",
-      "tarih": "21.01.2019"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 11. Hukuk Dairesi — Esas: 2013/4930, Karar: 2014/10839",
-      "link": "",
-      "tarih": "06.06.2014"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 11. Hukuk Dairesi — Esas: 2023/5234, Karar: 2024/8471",
-      "link": "",
-      "tarih": "28.11.2024"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 9. Hukuk Dairesi — Esas: 2016/35551, Karar: 2016/21756",
-      "link": "",
-      "tarih": "08.12.2016"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 6. Hukuk Dairesi — Esas: 2022/2463, Karar: 2023/1939",
-      "link": "",
-      "tarih": "22.05.2023"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 23. Hukuk Dairesi — Esas: 2019/1215, Karar: 2020/3386",
-      "link": "",
-      "tarih": "03.11.2020"
-    },
-    {
-      "kategori": "yargitay_hukuk",
-      "baslik": "Yargıtay 23. Hukuk Dairesi — Esas: 2019/1866, Karar: 2020/3688",
-      "link": "",
-      "tarih": "17.11.2020"
-    },
-    {
-      "kategori": "cb_yonetmelik",
-      "baslik": "HABERLEŞME, SEYRÜSEFER VE GÖZETİM SİSTEMLERİ MÂNİA KRİTERLERİ HAKKINDA YÖNETMELİK (SHY-CNS/MÂNİA)",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46366&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "05.11.2026"
-    },
-    {
-      "kategori": "cb_yonetmelik",
-      "baslik": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ HARİTA VE KADASTRO MÜHENDİSLERİ ODASI EĞİTİM VE BELGELENDİRME MERKEZİ YÖNETMELİĞİ",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46367&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "05.11.2026"
+      "tarih": "25.02.2026"
     },
     {
       "kategori": "karar",
-      "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-3.pdf",
-      "tarih": "05.11.2026"
+      "baslik": "Anayasa Mahkemesinin 11/6/2026 Tarihli ve 2019/18263 Başvuru Numaralı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-7.pdf",
+      "tarih": "06.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
+      "tarih": "06.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
+      "tarih": "06.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
+      "tarih": "06.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 04/11/2026 Tarihli ve 11593 Sayılı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-3.pdf",
+      "tarih": "06.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm",
+      "tarih": "06.11.2026"
     }
   ]
 }
