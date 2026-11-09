@@ -1,38 +1,14 @@
 {
-  "bulten_tarihi": "08.11.2026",
-  "uretim_zamani": "2026-11-08T05:19:20+03:00",
+  "bulten_tarihi": "09.11.2026",
+  "uretim_zamani": "2026-11-09T05:34:05+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 5,
+  "kayit_sayisi": 1,
   "kayitlar": [
     {
-      "kategori": "yonetmelik",
-      "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm",
-      "tarih": "07.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm",
-      "tarih": "07.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm",
-      "tarih": "07.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm",
-      "tarih": "07.11.2026"
-    },
-    {
       "kategori": "karar",
-      "baslik": "Aile Danışma Merkezleri Yönetmeliği",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm",
-      "tarih": "07.11.2026"
+      "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
+      "tarih": "08.11.2026"
     }
   ]
 }
