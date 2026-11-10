@@ -1,14 +1,20 @@
 {
-  "bulten_tarihi": "09.11.2026",
-  "uretim_zamani": "2026-11-09T05:34:05+03:00",
+  "bulten_tarihi": "10.11.2026",
+  "uretim_zamani": "2026-11-10T07:34:49+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 1,
+  "kayit_sayisi": 2,
   "kayitlar": [
     {
-      "kategori": "karar",
-      "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
-      "tarih": "08.11.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2023/7515, Karar: 2026/1870 (09.03.2026)",
+      "link": "",
+      "tarih": "09.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2023/16416, Karar: 2026/1972 (10.03.2026)",
+      "link": "",
+      "tarih": "10.03.2026"
     }
   ]
 }
