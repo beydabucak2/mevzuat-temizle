@@ -1,20 +1,116 @@
 {
-  "bulten_tarihi": "10.11.2026",
-  "uretim_zamani": "2026-11-10T07:34:49+03:00",
+  "bulten_tarihi": "11.11.2026",
+  "uretim_zamani": "2026-11-11T05:41:42+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 2,
+  "kayit_sayisi": 18,
   "kayitlar": [
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/7515, Karar: 2026/1870 (09.03.2026)",
+      "baslik": "Danıştay 6. Daire — Esas: 2024/907, Karar: 2025/1623",
       "link": "",
-      "tarih": "09.03.2026"
+      "tarih": "20.03.2025"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/16416, Karar: 2026/1972 (10.03.2026)",
+      "baslik": "Danıştay 2. Daire — Esas: 2024/2938, Karar: 2025/1595",
       "link": "",
-      "tarih": "10.03.2026"
+      "tarih": "28.03.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2023/10022, Karar: 2025/1807",
+      "link": "",
+      "tarih": "11.04.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2023/11, Karar: 2025/3787",
+      "link": "",
+      "tarih": "17.04.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2023/10499, Karar: 2025/2152",
+      "link": "",
+      "tarih": "28.04.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 12. Daire — Esas: 2022/1646, Karar: 2025/2159",
+      "link": "",
+      "tarih": "29.04.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 12. Daire — Esas: 2022/4193, Karar: 2025/2723",
+      "link": "",
+      "tarih": "26.05.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 12. Daire — Esas: 2022/1545, Karar: 2025/4889",
+      "link": "",
+      "tarih": "06.11.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 12. Daire — Esas: 2022/3844, Karar: 2025/5158",
+      "link": "",
+      "tarih": "20.11.2025"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2022/544, Karar: 2025/9163",
+      "link": "",
+      "tarih": "26.11.2025"
+    },
+    {
+      "kategori": "teblig",
+      "baslik": "TÜRK GIDA KODEKSİ PEYNİR TEBLİĞİ (TEBLİĞ NO: 2026/24)",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46377&MevzuatTur=9&MevzuatTertip=5",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "teblig",
+      "baslik": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 597)",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46378&MevzuatTur=9&MevzuatTertip=5",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Hâkimler ve Savcılar Kuruluna Ait Kararlar",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-1.pdf",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Gençlik ve Spor Bakanlığı Yurt Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-2.htm",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "İller Bankası Anonim Şirketi İnsan Kaynakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-3.htm",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Türkiye Sağlık Enstitüleri Başkanlığı Bünyesinde Oluşturulacak Bilim Kurulları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-4.htm",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "cb_genelge",
+      "baslik": "Yeşil Mutabakat Eylem Planı (2026-2030) ile İlgili 2026/12 Sayılı Cumhurbaşkanlığı Genelgesi",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-5.pdf",
+      "tarih": "10.11.2026"
+    },
+    {
+      "kategori": "teblig",
+      "baslik": "Türk Gıda Kodeksi Peynir Tebliği (No: 2026/24)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-7.htm",
+      "tarih": "10.11.2026"
     }
   ]
 }
