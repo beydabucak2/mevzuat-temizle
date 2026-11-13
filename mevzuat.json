@@ -1,44 +1,50 @@
 {
-  "bulten_tarihi": "12.11.2026",
-  "uretim_zamani": "2026-11-12T06:44:50+03:00",
+  "bulten_tarihi": "13.11.2026",
+  "uretim_zamani": "2026-11-13T06:21:42+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 6,
+  "kayit_sayisi": 7,
   "kayitlar": [
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2024/3741, Karar: 2026/1116 (25.02.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6275, Karar: 2026/1091 (25.02.2026)",
       "link": "",
       "tarih": "25.02.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2023/6830, Karar: 2026/1187 (02.03.2026)",
+      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/17, Karar: 2026/111 (11.03.2026)",
       "link": "",
-      "tarih": "02.03.2026"
+      "tarih": "11.03.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2025/5242, Karar: 2026/834 (17.02.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/5292, Karar: 2026/1024 (24.02.2026)",
       "link": "",
-      "tarih": "17.02.2026"
+      "tarih": "24.02.2026"
     },
     {
-      "kategori": "karar",
-      "baslik": "Ozan Elektronik Para A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-5.pdf",
-      "tarih": "11.11.2026"
+      "kategori": "cb_yonetmelik",
+      "baslik": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46379&MevzuatTur=7&MevzuatTertip=5",
+      "tarih": "12.11.2026"
     },
     {
-      "kategori": "karar",
-      "baslik": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-4.pdf",
-      "tarih": "11.11.2026"
+      "kategori": "cb_yonetmelik",
+      "baslik": "BÜTÜNLEŞİK SİGORTALAR HAKKINDA YÖNETMELİK",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46380&MevzuatTur=7&MevzuatTertip=5",
+      "tarih": "12.11.2026"
     },
     {
-      "kategori": "teblig",
-      "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/4)’de Değişiklik Yapılmasına Dair Tebliğ",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-3.htm",
-      "tarih": "11.11.2026"
+      "kategori": "yonetmelik",
+      "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetler ve Mesafeli Akdedilen Sigorta Sözleşmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-3.htm",
+      "tarih": "12.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Afetler Sonrası Bina Hasar Tespiti Yapılmasına İlişkin Genel Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-1.htm",
+      "tarih": "12.11.2026"
     }
   ]
 }
