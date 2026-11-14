@@ -1,50 +1,14 @@
 {
-  "bulten_tarihi": "13.11.2026",
-  "uretim_zamani": "2026-11-13T06:21:42+03:00",
+  "bulten_tarihi": "14.11.2026",
+  "uretim_zamani": "2026-11-14T06:03:26+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 7,
+  "kayit_sayisi": 1,
   "kayitlar": [
     {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2025/6275, Karar: 2026/1091 (25.02.2026)",
-      "link": "",
-      "tarih": "25.02.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay Vergi Dava Daireleri Kurulu — Esas: 2026/17, Karar: 2026/111 (11.03.2026)",
-      "link": "",
-      "tarih": "11.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2025/5292, Karar: 2026/1024 (24.02.2026)",
-      "link": "",
-      "tarih": "24.02.2026"
-    },
-    {
       "kategori": "cb_yonetmelik",
-      "baslik": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46379&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "12.11.2026"
-    },
-    {
-      "kategori": "cb_yonetmelik",
-      "baslik": "BÜTÜNLEŞİK SİGORTALAR HAKKINDA YÖNETMELİK",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46380&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "12.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetler ve Mesafeli Akdedilen Sigorta Sözleşmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-3.htm",
-      "tarih": "12.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Afetler Sonrası Bina Hasar Tespiti Yapılmasına İlişkin Genel Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-1.htm",
-      "tarih": "12.11.2026"
+      "baslik": "DİYALİZ MERKEZLERİ HAKKINDA YÖNETMELİK",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46381&MevzuatTur=7&MevzuatTertip=5",
+      "tarih": "13.11.2026"
     }
   ]
 }
