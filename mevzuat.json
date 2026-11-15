@@ -1,14 +1,86 @@
 {
-  "bulten_tarihi": "14.11.2026",
-  "uretim_zamani": "2026-11-14T06:03:26+03:00",
+  "bulten_tarihi": "15.11.2026",
+  "uretim_zamani": "2026-11-15T05:31:53+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 1,
+  "kayit_sayisi": 13,
   "kayitlar": [
     {
-      "kategori": "cb_yonetmelik",
-      "baslik": "DİYALİZ MERKEZLERİ HAKKINDA YÖNETMELİK",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46381&MevzuatTur=7&MevzuatTertip=5",
-      "tarih": "13.11.2026"
+      "kategori": "cb_genelge",
+      "baslik": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) ile İlgili 2026/13 Sayılı Cumhurbaşkanlığı Genelgesi",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-17.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Millî Eğitim Bakanlığı Ölçme ve Değerlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-16.htm",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11991)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-15.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11982)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-13.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Ankara İli, Kahramankazan İlçesinde Kurulacak RMS-B Doğal Gaz Dağıtım Tesisinin Yapımı Amacıyla, Kışla Mahallesi Sınırları İçerisinde Yer Alan Taşınmazın Enerji Piyasası Düzenleme Kurumu Tarafından Ac",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-12.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "400 kV Kayabaşı Mehmet Esen TM-Kırıkkale DGKÇS Enerji İletim Hattının D.212-D.216 Numaralı Direkleri Arası ile 154 kV Sungurlu OSB-Alaca TM Enerji İletim Hattının D.11-D.14 Numaralı ve D.26-D.33 Numar",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-10.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "154 kV (Kulu TM-Cihanbeyli TM)-Tosyalı Şeker GES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamu",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-8.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "154 kV (Gölbaşı TM-Emirler TM EİH) Brş.N.-Yağlıpınar Uydu TM (Girdi-Çıktı) (Hat 1- Hat 2) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlü",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-7.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Erzurum İlinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11975)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-6.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Isparta İli, Eğirdir, Gelendost, Senirkent ve Yalvaç İlçeleri Sınırları İçerisinde Bulunan Bazı Alanların Eğirdir Gölü Doğal Sit Alanı Kesin Korunacak Hassas Alan Olarak Tescil ve İlan Edilmesi Hakkın",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-5.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Geliştirme Ödeneği Ödenmesine Dair Kararda Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11972)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-3.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "karar",
+      "baslik": "Üniversite Hastaneleri Koordinasyon Komitesi Kurulması Hakkında Karar (Karar Sayısı: 11971)",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-2.pdf",
+      "tarih": "14.11.2026"
+    },
+    {
+      "kategori": "kanun",
+      "baslik": "7597 Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-1.htm",
+      "tarih": "14.11.2026"
     }
   ]
 }
