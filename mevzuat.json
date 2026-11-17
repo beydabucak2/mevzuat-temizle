@@ -1,13 +1,73 @@
 {
-  "bulten_tarihi": "16.11.2026",
-  "uretim_zamani": "2026-11-16T05:40:46+03:00",
+  "bulten_tarihi": "17.11.2026",
+  "uretim_zamani": "2026-11-17T08:01:49+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 1,
+  "kayit_sayisi": 11,
   "kayitlar": [
     {
+      "kategori": "karar",
+      "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2025/144, K: 2026/164 Sayılı Kararı",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
+      "tarih": "17.11.2026"
+    },
+    {
+      "kategori": "yonetmelik",
+      "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm",
+      "tarih": "17.11.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2023/17128, Karar: 2026/1549 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2022/12800, Karar: 2026/1610 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2022/11604, Karar: 2026/1534 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2023/398, Karar: 2026/1612 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2023/19363, Karar: 2026/1552 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/4294, Karar: 2026/1047 (24.02.2026)",
+      "link": "",
+      "tarih": "24.02.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/4292, Karar: 2026/1046 (24.02.2026)",
+      "link": "",
+      "tarih": "24.02.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/3610, Karar: 2026/1033 (24.02.2026)",
+      "link": "",
+      "tarih": "24.02.2026"
+    },
+    {
       "kategori": "teblig",
-      "baslik": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2026/13)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-6.htm",
+      "baslik": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2026/13)",
+      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46383&MevzuatTur=9&MevzuatTertip=5",
       "tarih": "15.11.2026"
     }
   ]
