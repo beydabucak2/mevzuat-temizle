@@ -1,74 +1,164 @@
 {
-  "bulten_tarihi": "17.11.2026",
-  "uretim_zamani": "2026-11-17T08:01:49+03:00",
+  "bulten_tarihi": "18.11.2026",
+  "uretim_zamani": "2026-11-18T07:08:37+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 11,
+  "kayit_sayisi": 26,
   "kayitlar": [
     {
-      "kategori": "karar",
-      "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2025/144, K: 2026/164 Sayılı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
-      "tarih": "17.11.2026"
-    },
-    {
-      "kategori": "yonetmelik",
-      "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm",
-      "tarih": "17.11.2026"
-    },
-    {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/17128, Karar: 2026/1549 (03.03.2026)",
-      "link": "",
-      "tarih": "03.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2022/12800, Karar: 2026/1610 (03.03.2026)",
-      "link": "",
-      "tarih": "03.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2022/11604, Karar: 2026/1534 (03.03.2026)",
-      "link": "",
-      "tarih": "03.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/398, Karar: 2026/1612 (04.03.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/550, Karar: 2026/1282 (04.03.2026)",
       "link": "",
       "tarih": "04.03.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/19363, Karar: 2026/1552 (03.03.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/4693, Karar: 2026/1317 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/14, Karar: 2026/1284 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/6789, Karar: 2026/1319 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/6, Karar: 2026/1290 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/13, Karar: 2026/1288 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/11, Karar: 2026/1293 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/154, Karar: 2026/1300 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2023/1425, Karar: 2026/1298 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2023/1487, Karar: 2026/1299 (04.03.2026)",
+      "link": "",
+      "tarih": "04.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2022/8482, Karar: 2026/2362 (26.03.2026)",
+      "link": "",
+      "tarih": "26.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/915, Karar: 2026/1478 (30.03.2026)",
+      "link": "",
+      "tarih": "30.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6312, Karar: 2026/1250 (03.03.2026)",
       "link": "",
       "tarih": "03.03.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2024/4294, Karar: 2026/1047 (24.02.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2023/5005, Karar: 2026/1249 (03.03.2026)",
       "link": "",
-      "tarih": "24.02.2026"
+      "tarih": "03.03.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2024/4292, Karar: 2026/1046 (24.02.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/4578, Karar: 2026/1247 (03.03.2026)",
       "link": "",
-      "tarih": "24.02.2026"
+      "tarih": "03.03.2026"
     },
     {
       "kategori": "danistay_karar",
-      "baslik": "Danıştay 8. Daire — Esas: 2024/3610, Karar: 2026/1033 (24.02.2026)",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6325, Karar: 2026/1269 (03.03.2026)",
       "link": "",
-      "tarih": "24.02.2026"
+      "tarih": "03.03.2026"
     },
     {
-      "kategori": "teblig",
-      "baslik": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2026/13)",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46383&MevzuatTur=9&MevzuatTertip=5",
-      "tarih": "15.11.2026"
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2025/6324, Karar: 2026/1268 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 8. Daire — Esas: 2024/2368, Karar: 2026/1245 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/1354, Karar: 2026/1923 (20.04.2026)",
+      "link": "",
+      "tarih": "20.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2026/715, Karar: 2026/1905 (20.04.2026)",
+      "link": "",
+      "tarih": "20.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2026/744, Karar: 2026/1904 (20.04.2026)",
+      "link": "",
+      "tarih": "20.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/246, Karar: 2026/1758 (13.04.2026)",
+      "link": "",
+      "tarih": "13.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/828, Karar: 2026/1678 (08.04.2026)",
+      "link": "",
+      "tarih": "08.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/117, Karar: 2026/1603 (03.04.2026)",
+      "link": "",
+      "tarih": "03.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 3. Daire — Esas: 2024/2078, Karar: 2026/1584 (03.04.2026)",
+      "link": "",
+      "tarih": "03.04.2026"
+    },
+    {
+      "kategori": "danistay_karar",
+      "baslik": "Danıştay 5. Daire — Esas: 2024/14870, Karar: 2026/1606 (03.03.2026)",
+      "link": "",
+      "tarih": "03.03.2026"
     }
   ]
 }
