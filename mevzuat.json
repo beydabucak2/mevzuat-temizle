@@ -1,74 +1,14 @@
 {
-  "bulten_tarihi": "19.11.2026",
-  "uretim_zamani": "2026-11-19T07:05:05+03:00",
+  "bulten_tarihi": "20.11.2026",
+  "uretim_zamani": "2026-11-20T06:56:27+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 11,
+  "kayit_sayisi": 1,
   "kayitlar": [
     {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/5957, Karar: 2026/2222 (12.03.2026)",
-      "link": "",
-      "tarih": "12.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2022/16496, Karar: 2026/2146 (12.03.2026)",
-      "link": "",
-      "tarih": "12.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 5. Daire — Esas: 2023/10326, Karar: 2026/2328 (25.03.2026)",
-      "link": "",
-      "tarih": "25.03.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 3. Daire — Esas: 2024/2079, Karar: 2026/1585 (03.04.2026)",
-      "link": "",
-      "tarih": "03.04.2026"
-    },
-    {
-      "kategori": "danistay_karar",
-      "baslik": "Danıştay 3. Daire — Esas: 2024/2123, Karar: 2026/1602 (03.04.2026)",
-      "link": "",
-      "tarih": "03.04.2026"
-    },
-    {
-      "kategori": "teblig",
-      "baslik": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2026/32)",
-      "link": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46387&MevzuatTur=9&MevzuatTertip=5",
-      "tarih": "18.11.2026"
-    },
-    {
-      "kategori": "karar",
-      "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf",
-      "tarih": "18.11.2026"
-    },
-    {
-      "kategori": "teblig",
-      "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm",
-      "tarih": "18.11.2026"
-    },
-    {
-      "kategori": "karar",
-      "baslik": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf",
-      "tarih": "18.11.2026"
-    },
-    {
-      "kategori": "karar",
-      "baslik": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf",
-      "tarih": "18.11.2026"
-    },
-    {
-      "kategori": "karar",
-      "baslik": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf",
-      "tarih": "18.11.2026"
+      "kategori": "yonetmelik",
+      "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
+      "tarih": "19.11.2026"
     }
   ]
 }
