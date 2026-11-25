@@ -1,26 +1,7 @@
 {
-  "bulten_tarihi": "24.11.2026",
-  "uretim_zamani": "2026-11-24T09:54:13+03:00",
+  "bulten_tarihi": "25.11.2026",
+  "uretim_zamani": "2026-11-25T08:22:41+03:00",
   "taranan_satir_sayisi": 30,
-  "kayit_sayisi": 3,
-  "kayitlar": [
-    {
-      "kategori": "teblig",
-      "baslik": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-4.htm",
-      "tarih": "24.11.2026"
-    },
-    {
-      "kategori": "kanun",
-      "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm",
-      "tarih": "24.11.2026"
-    },
-    {
-      "kategori": "kanun",
-      "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
-      "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-2.htm",
-      "tarih": "24.11.2026"
-    }
-  ]
+  "kayit_sayisi": 0,
+  "kayitlar": []
 }
